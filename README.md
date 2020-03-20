@@ -4,12 +4,9 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/401-advanced-javascript-sohad/lab-38-Redux---Asynchronous-Actions/pull/1)
 
 <!-- - [ci/cd](https://github.com/401-advanced-javascript-Dante/lab31/actions/runs/48085952) (GitHub Actions) -->
-
-### Setup
-
 
 #### How to initialize/run your application (where applicable)
 
@@ -22,4 +19,4 @@
 #### UML
 
 Link to an image of the UML for your application and response to events
-- [uml]()(UML)
+- [uml](../assets/lab-38.jpg)(UML)
